@@ -1,12 +1,3 @@
-<DOCTYPE HTML>
-<html>
-<head>
-</head>
+# This program prints Hello, world!
 
-<body>
-  <script>
-    alert( 'Hello, world!' );
-  </script>
-</body>
-
-</html>
+print('Hello, world!')
